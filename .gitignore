@@ -6,6 +6,8 @@ target/
 .idea_modules/
 /project/boot/
 /project/plugins/project
+project/project
+project/target
 target/
 out/
 lib_managed/
